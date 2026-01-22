@@ -1,4 +1,4 @@
-# Dutch Auction Launchpad
+# Dutch Auction Launchpad by block
 
 ![Solidity](https://img.shields.io/badge/solidity-^0.8.20-blue)
 ![Mechanism](https://img.shields.io/badge/style-Dutch_Auction-orange)
